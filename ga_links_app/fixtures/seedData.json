@@ -1,0 +1,1242 @@
+[
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Intro to WDI",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://www.google.com/url?q=https%3A%2F%2Fgit.generalassemb.ly%2FDC-WDI%2Fintro-to-wdi&sa=D&usd=2&usg=AFQjCNEEbeSv0o4AoRynbNkjyBDvYCKa0A",
+      "date": "10/8/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Fundamentals",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/Fundamentals",
+      "date": "10/8/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Intro to the CLI",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/cli-intro",
+      "date": "10/8/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "To Oz",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/to-oz",
+      "date": "10/8/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Checkpoint: Prework",
+      "unit": "javascript_1",
+      "type_of_lesson": "checkpoint_1",
+      "lesson_url": "https://docs.google.com/forms/d/1_BJS3u9ANQvpHyjdSrTg29hfaOvNh8jRa0Mut4mlIso/",
+      "date": "10/9/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Intro To Git",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/git-intro",
+      "date": "10/9/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "CSS 1: Styling",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/intro-to-css",
+      "date": "10/9/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Haiku",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/haiku",
+      "date": "10/9/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Intro to HTML",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/intro-to-html",
+      "date": "10/10/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk1: Intro to Outcomes + the DC Tech Scene",
+      "unit": "javascript_1",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "https://sites.google.com/generalassemb.ly/gadcoutcomes/in-class-student-materials/intro-to-outcomes-the-dc-tech-scene",
+      "date": "10/10/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "CSS 1: Layout",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/css-layout",
+      "date": "10/10/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Wendy Bite",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/wendy-bite",
+      "date": "10/10/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Airbnb",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/css-airbnb",
+      "date": "10/10/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Responsive Design",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/responsive-web-design",
+      "date": "10/11/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Portfolio Pages",
+      "unit": "javascript_1",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/portfolio-pages",
+      "date": "10/11/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Data Types",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-data-types",
+      "date": "10/11/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "JS Data Types",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/Data-Types-Practice",
+      "date": "10/11/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "CS: Intro to Computer Science",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/computer-science",
+      "date": "10/12/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Control Flow",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-control-flow",
+      "date": "10/12/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Functions & Scope",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-functions-and-scope",
+      "date": "10/12/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "JS Control Flow",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-control-flow",
+      "date": "10/12/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "ASCII Art",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/ascii-art",
+      "date": "10/12/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Array Methods & Callbacks",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-array-methods",
+      "date": "10/15/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Objects & Context",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-objects-and-context",
+      "date": "10/15/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Arrays & Methods",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/array-methods-practice",
+      "date": "10/15/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Debugging JS",
+      "unit": "javascript_1",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-debugging-errors",
+      "date": "10/16/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Object Oriented Programming",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/javascript-oop",
+      "date": "10/16/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Calculator",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-calculator",
+      "date": "10/16/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "CS: Big-O Notation",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/computer-science/blob/master/02-big-o.md",
+      "date": "10/17/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk2: The Alumni Panel",
+      "unit": "javascript_1",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "https://sites.google.com/generalassemb.ly/gadcoutcomes/in-class-student-materials/the-alumni-panel",
+      "date": "10/17/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "OOP",
+      "unit": "javascript_1",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-gladiator",
+      "date": "10/17/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Geometry",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-geometry",
+      "date": "10/17/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Slips",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://pages.git.generalassemb.ly/DC-WDI/slips/",
+      "date": "10/18/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "JS and the DOM",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-dom",
+      "date": "10/18/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "The DOM and Events",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-events",
+      "date": "10/18/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Pixart",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-pixart",
+      "date": "10/18/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": " JS-Dom-Slideshow",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-dom-slideshow",
+      "date": "10/18/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "TOC",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/js-dom-toc",
+      "date": "10/18/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Tic-Tac-Toe",
+      "unit": "javascript_1",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/tic-tac-toe",
+      "date": "10/19/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Building a Bigger Project",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/building-a-bigger-project",
+      "date": "10/19/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Project Intro & Planning",
+      "unit": "javascript_1",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/Project",
+      "date": "10/22/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Project 1: Javascript",
+      "unit": "javascript_1",
+      "type_of_lesson": "project",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/Project",
+      "date": "10/23/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk3: A Day in the Life -- Studio Tour",
+      "unit": "javascript_1",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "https://sites.google.com/generalassemb.ly/gadcoutcomes/in-class-student-materials/a-day-in-the-life-studio-tour",
+      "date": "10/24/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "The Internet and Node: Readme",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/the_internet_and_node",
+      "date": "10/26/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "The Internet and Node: Video \"How Internet Works\"",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://www.youtube.com/watch?v=7_LPdttKXPc",
+      "date": "10/26/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "The Internet and Node: Video \"Http req and res\"",
+      "unit": "javascript_1",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://www.youtube.com/watch?v=DrI2lUXL1no",
+      "date": "10/26/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Intro to Node & NPM",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/node-npm-http-intro",
+      "date": "10/29/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Intro to Express",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dmc/express-intro",
+      "date": "10/29/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "WDI Emergency Compliment",
+      "unit": "express_node_2",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/emergency_compliment",
+      "date": "10/29/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Intro to MongoDB",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dmc/mongo-intro",
+      "date": "10/30/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Mongo CLI",
+      "unit": "express_node_2",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/mongo-cli",
+      "date": "10/30/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Mongo Practice: Queries",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/mongo-queries-practice",
+      "date": "10/30/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Mongo Practice: MVC-intro",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/mvc-intro",
+      "date": "10/30/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk4: Finding Your Voice and Defining Your Brand",
+      "unit": "express_node_2",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fgeneralassemb.ly%2Fgadcoutcomes%2Fin-class-student-materials%2Ffinding-your-voice-defining-your-brand&sa=D&sntz=1&usg=AFQjCNGru7yFzQu-1tFjI8RY4NZpawilsg",
+      "date": "10/31/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Express Routing and Controllers",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/express-routing",
+      "date": "10/31/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Review Express Routing: Video",
+      "unit": "express_node_2",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://www.youtube.com/watch?reload=9&v=9CnCCRjKu5w",
+      "date": "10/31/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Review Express Routing: Practice",
+      "unit": "express_node_2",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/express-routing-practice",
+      "date": "10/31/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "CS: Sorting Algorithms",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dmc/computer-science/blob/master/04-sorting-algorithms.md",
+      "date": "11/1/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Express Mongoose Models",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dmc/express-models",
+      "date": "11/1/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Express Mongoose Queries",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/mongoose-queries",
+      "date": "11/1/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Express Mongoose Queries - Cont.",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/mongoose-queries",
+      "date": "11/2/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Express Views",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/express-views",
+      "date": "11/2/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "MEHN",
+      "unit": "express_node_2",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/mehn-lab",
+      "date": "11/2/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Mr Potato Head",
+      "unit": "express_node_2",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/Express-Mr-Potato-Head",
+      "date": "11/2/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Express Authentication",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dmc/express-passport",
+      "date": "11/6/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Passport Local Authentication",
+      "unit": "express_node_2",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/passport-local-lab",
+      "date": "11/6/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk5: The Winning Materials Toolkit",
+      "unit": "express_node_2",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "https://sites.google.com/generalassemb.ly/gadcoutcomes/in-class-student-materials/the-winning-toolkit-materials",
+      "date": "11/7/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Project: Deployment (Guided)",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/express-mongoose-mlab-deploy",
+      "date": "11/7/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "CS: Data Structures",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/computer-science/blob/master/05-data-structures.md",
+      "date": "11/8/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "APIs & AJAX",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/js-ajax",
+      "date": "11/8/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Express APIs",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dmc/express-apis-json",
+      "date": "11/8/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "GAphy",
+      "unit": "express_node_2",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/express-api-lab",
+      "date": "11/8/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Express Testing",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/express-tdd",
+      "date": "11/9/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Project 2: Node/Express",
+      "unit": "express_node_2",
+      "type_of_lesson": "project",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-node-express/Project",
+      "date": "11/9/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk6: Crafting Your Internal + External Strategy",
+      "unit": "express_node_2",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://sites.google.com/generalassemb.ly/gadcoutcomes/in-class-student-materials/crafting-your-internal-and-external-strategy",
+      "date": "11/14/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Getting Started with React: React Homepage",
+      "unit": "react_3",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://reactjs.org/docs/thinking-in-react.html",
+      "date": "11/16/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Getting Started with React: GA Lesson",
+      "unit": "react_3",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/thinking-in-react",
+      "date": "11/16/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "React",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/React",
+      "date": "11/19/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "React Components",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/react-intro",
+      "date": "11/19/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "React State & Data Flow",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/react-state-and-props",
+      "date": "11/19/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Dr. Who",
+      "unit": "react_3",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/Dr_Who",
+      "date": "11/19/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Component Lifecycle",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/react-component-lifecycle",
+      "date": "11/20/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Component Extravaganza",
+      "unit": "react_3",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/component-extravaganza",
+      "date": "11/20/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk7: Preparing for the Interview + Talking Money",
+      "unit": "react_3",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "sites.google.com/generalassemb.ly/gadcoutcomes/in-class-student-materials/preparing-for-the-interview-talking-money",
+      "date": "11/21/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Static Dashboard",
+      "unit": "react_3",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/Static_Dashboard",
+      "date": "11/21/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Testing with Jest",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/testing-in-react-with-jest-enzyme",
+      "date": "11/22/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Redux",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/react-redux",
+      "date": "11/22/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Authentication",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/react-jwt-authentication",
+      "date": "11/22/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "CS: Linked Lists",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/computer-science/blob/master/06-linked-lists.md",
+      "date": "11/26/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Component Lifecycle: Dad Jokes",
+      "unit": "react_3",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/dad-jokes",
+      "date": "11/26/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "React Router: Lesson",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/react-router/tree/wdi26",
+      "date": "11/26/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "React Router: Lab",
+      "unit": "react_3",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/react-router-lab",
+      "date": "11/27/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk8: Hello World! GA Profiles + Portfolios",
+      "unit": "react_3",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "https://sites.google.com/generalassemb.ly/gadcoutcomes/in-class-student-materials/hello-world-ga-profiles-portfolios",
+      "date": "11/28/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "MERN: Lesson",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/building-a-mern-app/tree/wdi26",
+      "date": "11/28/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "MERN: Lab",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/mern-lab",
+      "date": "11/29/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "CS: Stacks & Queues",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/computer-science/blob/master/07-stacks-and-queues.md",
+      "date": "11/30/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Production Ready React",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/production-ready-react",
+      "date": "11/30/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Git Workflows",
+      "unit": "react_3",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/git-teams",
+      "date": "11/30/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Project 3: React",
+      "unit": "react_3",
+      "type_of_lesson": "project",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-react-redux/Project/tree/wdi26",
+      "date": "12/3/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk9: Interviews and Talking Money",
+      "unit": "react_3",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "https://sites.google.com/generalassemb.ly/gadcoutcomes/in-class-student-materials/preparing-for-the-interview-talking-money",
+      "date": "12/5/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Python Starter",
+      "unit": "python_django_4",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/python-starter",
+      "date": "12/10/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk10: Ask the Experts Panel",
+      "unit": "python_django_4",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://sites.google.com/generalassemb.ly/gadcoutcomes/in-class-student-materials/ask-the-experts-panel-discussion-hiring-managers-and-recruiters",
+      "date": "12/11/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Intro to Python",
+      "unit": "python_django_4",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/intro-to-python",
+      "date": "12/11/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Python",
+      "unit": "python_django_4",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/Python",
+      "date": "12/11/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Python Koans",
+      "unit": "python_django_4",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/python-koans",
+      "date": "12/11/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "State Capitals",
+      "unit": "python_django_4",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/state-capitals",
+      "date": "12/12/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Python OOP",
+      "unit": "python_django_4",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/python-oop",
+      "date": "12/12/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Codebar",
+      "unit": "python_django_4",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/codebar",
+      "date": "12/12/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Intro to SQL",
+      "unit": "python_django_4",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/sql-intro",
+      "date": "12/13/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "SQL: Carmen San Diego",
+      "unit": "python_django_4",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/sql-carmen",
+      "date": "12/13/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "SQL: NFL",
+      "unit": "python_django_4",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/sql-nfl/blob/master/nfl.sql",
+      "date": "12/13/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "CS: Graphs & Trees",
+      "unit": "python_django_4",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-fundamentals/computer-science/blob/master/08-graphs-and-trees.md",
+      "date": "12/14/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Django Models & Migrations",
+      "unit": "python_django_4",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/django-models",
+      "date": "12/14/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Django Views & Templates",
+      "unit": "python_django_4",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dmc/django-views-and-templates",
+      "date": "12/14/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Scribble",
+      "unit": "python_django_4",
+      "type_of_lesson": "hw",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/scribble",
+      "date": "12/14/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Hogwarts",
+      "unit": "python_django_4",
+      "type_of_lesson": "lab",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/hogwarts",
+      "date": "12/17/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Nostaldja",
+      "unit": "python_django_4",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/nostal-dja",
+      "date": "12/17/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk11: Cracking the Technical Interview + Whiteboard�",
+      "unit": "python_django_4",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "https://sites.google.com/generalassemb.ly/gadcoutcomes/in-class-student-materials/cracking-the-technical-interview",
+      "date": "12/18/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Django REST framework",
+      "unit": "python_django_4",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dc-wdi-python-django/django-rest-framework",
+      "date": "12/19/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Django Auth",
+      "unit": "python_django_4",
+      "type_of_lesson": "class_lesson",
+      "lesson_url": "https://git.generalassemb.ly/dmc/django-auth/tree/dmc2015",
+      "date": "12/19/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Technical Interview Prep",
+      "unit": "python_django_4",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "https://git.generalassemb.ly/ga-wdi-exercises/interview-workshop",
+      "date": "12/20/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Project 4",
+      "unit": "python_django_4",
+      "type_of_lesson": "project",
+      "lesson_url": "https://git.generalassemb.ly/ga-wdi-exercises/project4",
+      "date": "12/21/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes: Overview",
+      "unit": "python_django_4",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "https://git.generalassemb.ly/dc-outcomes/outcomes-overview",
+      "date": "12/26/18"
+    }
+  },
+  {
+    "model": "ga_links_app.galesson",
+    "fields": {
+      "lesson_name": "Outcomes Wk12: Qualifications Check-In",
+      "unit": "python_django_4",
+      "type_of_lesson": "outcomes",
+      "lesson_url": "https://sites.google.com/generalassemb.ly/gadcoutcomes/in-class-student-materials/homestretch-qualification-check-in",
+      "date": "1/2/19"
+    }
+  }
+]
