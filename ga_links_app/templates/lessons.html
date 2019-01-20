@@ -1,4 +1,9 @@
 {% extends 'base.html' %}
+{% load staticfiles %}
+
+{% block styles %}
+<link rel="stylesheet" href="{% static 'css/lessons.css' %}">
+{% endblock %}
 
 {% block content %}
 
@@ -6,23 +11,27 @@
     <thead>
         <tr>
             <th scope="col">#</th>
-            <th scope="col">First</th>
-            <th scope="col">Last</th>
-            <th scope="col">Handle</th>
+            <th scope="col">Lesson Name</th>
+            <th scope="col">Unit</th>
+            <th scope="col">Type Of Lesson</th>
+            <th scope="col">Date Of Lesson</th>
         </tr>
     </thead>
 
 
-    <tbody>
+    <tbody class="table-body">
         {% for lesson in lessons %}
-        <tr>
-            <th scope="row">{{ forloop.counter }}</th>
-            <td colspan="1">
-                <h2><a href="/lesson/{{lesson.id}}">{{lesson.lesson_name}}</a></h2>
-            </td>
-            <td>Mark</td>
-            <td>@twitter</td>
-        </tr>
+        <a href="/lesson/{{lesson.id}}">
+            <tr>
+                <th scope="row">{{ forloop.counter }}</th>
+                <td>
+                    <h2><a href="{{lesson.lesson_url}}">{{lesson.lesson_name}}</a></h2>
+                </td>
+                <td>{{lesson.unit}}</td>
+                <td>{{lesson.type_of_lesson}}</td>
+                <td>{{lesson.date}}</td>
+            </tr>
+        </a>
         {% endfor %}
     </tbody>
 </table>
